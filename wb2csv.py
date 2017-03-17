@@ -125,16 +125,19 @@ def reformat (file,prodtype):
     if 'CRATE' in file:
         PRODLOC = "CRATES"
     
+    # Store Fido Dictionary into Python Dictionary 
     outfile = open("OUT/out_%s" %(file), 'w')
     reader1 = csv.reader(DICTFILE)
-    
-    file1 = 'data/'+file
-    for row in reader1:
-        sperson = row[2].upper()
-        salesid[sperson] = row[3]
-        cperson = row[0].upper()
-        custid[cperson] = row[1]
         
+    for row in reader1:
+        sperson = row[2].strip()
+        sperson = sperson.upper()
+        salesid[sperson] = row[3].strip()
+        cperson = (row[0].upper()).strip()
+        custid[cperson] = row[1].strip()
+    
+    
+    file1 = 'data/'+file 
     reader2 = csv.reader(open(file1, 'rt'))
     CSVHEADER = 'id,payment_term_id/id,account_id/id,user_id/id,user_id/name,partner_id/id,partner_id/display_name,date_invoice,invoice_line_ids/product_id/id,invoice_line_ids/name,invoice_line_ids/account_id/id,invoice_line_ids/quantity,invoice_line_ids/price_unit'
     print (CSVHEADER,file=outfile)
