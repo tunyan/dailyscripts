@@ -63,7 +63,7 @@ def customerqc(name,type):
         custname = custname.replace('Jesus Love','Jesus-Love')
         custname = custname.replace('Roland','Rowland')
         custname = custname.replace('Christain','Christian')
-        custname = custname.replace('Pishoh Gole','Pishon Gole')
+        #custname = custname.replace('Pishoh Gole','Pishon Gole')
         custname = custname.replace('Stella Amaran','Stella Amara')
         custname = custname.replace('Omorome','Omoreme')    
         custname = custname.replace('Egerekumo','Ederekumo')
