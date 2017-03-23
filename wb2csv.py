@@ -69,7 +69,7 @@ def customerqc(name,type):
         custname = custname.replace('Egerekumo','Ederekumo')
         custname = custname.replace('Mathew','Matthew')
         custname = custname.replace('Mercy Ndubuisi','Mercy Ndubusi')        
-        custname = custname.replace('Daniel Egiri','Erigi')
+        custname = custname.replace('Adebayo Fumi','Adebayo Funmi')
         
       
         custname = custname.replace('Okafor Priscilla','Priscilla Okafor')
@@ -87,30 +87,115 @@ def customerqc(name,type):
         custname = custname.replace('Florence','Flourence')
         custname = custname.replace('Seriyai Sam','Serieya Sam')
         custname = custname.replace('Obos Fransica','Obos Francisca')
-        custname = custname.replace('Edem Obong','Edem Obongama')
+        custname = custname.replace('Matthew Onyedikachi','Onyedikachi Matthew')
         custname = custname.replace('Godwin O','Godwin Orieneme')
         custname = custname.replace('Magdalene','Magdaline')
         custname = custname.replace('Toma','Kekemeke Toma')
         custname = custname.replace('Joan','Joan-Customer')
         custname = custname.replace('Jenakumo Jenifer','Jennifer')
         custname = custname.replace('Ayerigha','Ayengha')
-        custname = custname.replace('Vidah','Vida')
-        custname = custname.replace('Nengimote','Nengimote Yousuo')
+        custname = custname.replace('Azode Chidebere','Azode Chidiebere')
+        custname = custname.replace('Ukutta Ella','Ella Ukuta')
         custname = custname.replace('Ogechi','Ogechukwu')
-        custname = custname.replace('Emem Owei','Emem Owei Tongu')
+        
+        
+        custname = custname.replace('Powiede Alokpa','Poweide Alokpa')
         custname = custname.replace('Pricilla Okafor','Priscilla Okafor')
-        custname = custname.replace('Makpah','Markpah')
         custname = custname.replace('Bennedicta','Benedicta')
         custname = custname.replace('Ifeiyenwa Nweke','Nweke Ifeanyiwa')
         custname = custname.replace('Samsom Freedom','Samson Freedom')
-        custname = custname.replace('Omokuro','Omukuro')
-               
+        custname = custname.replace('Omokuro','Omukoro')
+        custname = custname.replace('Rhoda Charles','Charles Rhoda')
+        custname = custname.replace('Oyeintaro Timipa','Timipa Oyintari')
+        custname = custname.replace('Luck Water','Lucky Waters')
+        custname = custname.replace('Benjamin Karibi','Benjamin Kariebi')
+        custname = custname.replace('Akinola Damilola','Akinola Dami')
+        custname = custname.replace('Akan Augustin','Akan')
+        custname = custname.replace('Grace Douglas','Douglas Grace')
+        custname = custname.replace('GodsGift','GodGift')
+        custname = custname.replace('Jesus love','Jesus-Love')
+        custname = custname.replace('Oguru John','Oguru')
+        custname = custname.replace('Selepre','seleipre Ero')
+        custname = custname.replace('preye mathew','Preye Matthew')
+        custname = custname.replace('Uche Pick up','Uche Pick-up')
+        custname = custname.replace('Omadudu Faith','Faith Omadudu')
+        custname = custname.replace('Suleman','Suleiman')
+        custname = custname.replace('Sam Seriyai','Serieya Sam')
+        custname = custname.replace('Oghenefejiro Monday','Oghenefein Monday')
+        custname = custname.replace('Eduno Benjamin','Benjamin Eduno')
+        custname = custname.replace('Ikechukwu Ossai','IK Ossai')
+        #custname = custname.replace('Oluchukwu','Oluchi')
+        custname = custname.replace('Capt Timi','Captain Timi')
+        custname = custname.replace('Amax Benita','Benita Max')
+        
+        
+        custname = custname.replace('Azibapu Success','Success Azibapu')
+        custname = custname.replace('Odi Ada','Ochi Ada')
+        custname = custname.replace('sunday david','Sunny David')
+        custname = custname.replace('EMMANUEL CHUKWUKA','Emmanuel C')
+        custname = custname.replace('Ariye Suware','Ariye')
+        custname = custname.replace('Alex Oleya','Alex Oliya Customer')
+        custname = custname.replace('Innocent Oji','Innocent Orji')
+        custname = custname.replace('Onoro Ogheneovo','Ogheneovo Onoro')
+        custname = custname.replace('Praise Kiani','Praise Kelani')
+        custname = custname.replace('Nozi','Ngozi')
+        custname = custname.replace('Solomon Macaulay Ebi','Solomon Macauley Ebi')
+        custname = custname.replace('Gbeinz Ebinimi','Gbeinzi Ebinimi')
+        custname = custname.replace('Serieyai Sam','Serieya Sam')
+        custname = custname.replace('Kessrich','Kess Rich')
+        custname = custname.replace('Samuel Angalabiri','Samuel Agalabiri')
+        custname = custname.replace('Victory Ikeinga','Victoria Ikenga')
+        custname = custname.replace('Gloria Esseh','Gloria Eseh')
+        custname = custname.replace('Ogrega Roseline','Rose Ogriga')
+        custname = custname.replace('Priscillia Okafor','Priscilla Okafor')
+        custname = custname.replace('Godswill Achibong','Godswill Archibong')
+        custname = custname.replace('Faith Hillary','Faith Hilary')
+        custname = custname.replace('Essiet Elizabeth','Elizabeth Essiet')
+        custname = custname.replace('Stanley Ukodhe','Stanley Ukedhe')
+        custname = custname.replace('Olatunbosun Yemi','Olatubosun Yemi') 
+        custname = custname.replace('Emem Owie Tongu','Emem Owei Tongu')
+        custname = custname.replace('Charles Ehimare','Ehimare Charles')  
+        
+        
+        custname = custname.replace('Ifeanyiwa Uchendu','Ifeyinwa Uchendu')                  
+        custname = custname.replace('Oghenefejiro Monday','Oghenefein Monday')
+        custname = custname.replace('Clara Wongi','Clara Wongo')
+        custname = custname.replace('Ukpong James','Ubong James')  
+        custname = custname.replace('Bridget Adebayo','Adebayo Bridget') 
+        custname = custname.replace('Victory Eghra','Victory Eghre')
+        custname = custname.replace('Philllip','Philip')
+        custname = custname.replace('Sulieman','Suleiman')
+        custname = custname.replace('Rita Mebine','Mebine Rita')
+        custname = custname.replace('Newyork Samuel','Newyork Sambo')
+        custname = custname.replace('Ayi Phillip','Ayi Philip')
+        custname = custname.replace('Ann Otikor','Ann Otiko')
+        custname = custname.replace('Seiyefa Cordilia','Seiyefa Cordelia')
+        custname = custname.replace('Phillips Ebipade','Philip Ebipade')
+        custname = custname.replace('Ebimo Ometeh','Ebimo Omeleh')
+        custname = custname.replace('Clement Ederekumo','Ederekumo Clement')
+        custname = custname.replace('Deregoe','Daregoe')
+        custname = custname.replace('Andrew Kelly','Kelly Andrew')
+        custname = custname.replace('Doris Obubor','Dorris Obutor')
+        custname = custname.replace('Rhoda Okomi','Okomi Rhoda')
+        custname = custname.replace('Patrick Adho','Patrick Adiho')
+        custname = custname.replace('Daniel Andrew','Andrew Daniel')
+        
+        
+        custname = custname.replace('Michael Titus','Micheal Titus')
+        custname = custname.replace('Godspel','Gospel')
+        custname = custname.replace('Samuel Angalere','Angalaere Samuel')
+        custname = custname.replace('Pere James','James Pere')
+        custname = custname.replace('Samuel Forsman','Samuel Forseman')
+        custname = custname.replace('Timibitei Tari','Timiebite Tari')
+            
     if type == 'SALES':
        
         custname = custname.replace('Kingley','Kingsley')
         custname = custname.replace('Kroboh Oweibiagha','Kroboh Oweibigha')
         custname = custname.replace('Kroboh Owiebigha','Kroboh Oweibigha')
-
+        custname = custname.replace('kroboh Owei','Kroboh Oweibigha')
+        custname = custname.replace('Kroboh Oweibia','Kroboh Oweibigha')
+  
     return custname                
 # test    
     
@@ -143,28 +228,29 @@ def reformat (file,prodtype):
     print (CSVHEADER,file=outfile)
     rcount = 0
     ercount = 0
-
+    prdid = ""
+    acctid = ""
     for row in reader2:
         try:
             rcount = rcount + 1
-            custname = customerqc(row[3],'CUSTOMER')
+            custname = customerqc(row[1],'CUSTOMER')
             custname = custname.upper()
-            salesperson = customerqc(row[1],'SALES')
+            salesperson = customerqc(row[0],'SALES')
             salesperson = salesperson.upper()
             # print(custname,' master ',salesperson)
             sid = ('__export__.res_users_' + salesid[salesperson]).rstrip()
             cid = ('__export__.res_partner_' + custid[custname]).rstrip()
             if 'OBUN' in file:
-                printstr = ',__export__.account_payment_term_7,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+'__export__.product_product_421'+','+prodtype+','+'__export__.account_account_204'+','+row[7]+','+row[8]
+                printstr = ',__export__.account_payment_term_7,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+'__export__.product_product_421'+','+prodtype+','+'__export__.account_account_204'+','+row[5]+','+row[6]
                 
             if 'KPANSIA' in file:                
-                printstr = ',__export__.account_payment_term_8,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+'__export__.product_product_421'+','+prodtype+','+'__export__.account_account_204'+','+row[7]+','+row[8]
+                printstr = ',__export__.account_payment_term_8,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+'__export__.product_product_421'+','+prodtype+','+'__export__.account_account_204'+','+row[5]+','+row[6]
             
             if 'DISP' in file:                
-                printstr = ',__export__.account_payment_term_9,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+'__export__.product_product_433'+','+prodtype+','+'__export__.account_account_98'+','+row[7]+','+row[8]
+                printstr = ',__export__.account_payment_term_9,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+'__export__.product_product_433'+','+prodtype+','+'__export__.account_account_98'+','+row[5]+','+row[6]
             
             if 'CRATE' in file:
-                prodtyp = row[5]
+                prodtyp = row[3]
                 if '50CL' in prodtyp:
                     prdid = '__export__.product_product_883'
                     acctid = '__export__.account_account_205'
@@ -173,12 +259,14 @@ def reformat (file,prodtype):
                     prdid = '__export__.product_product_572' 
                     acctid = '__export__.account_account_206'
                 
-                printstr = ',__export__.account_payment_term_10,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+prdid+','+prodtyp+','+acctid+','+row[7]+','+row[8]
-            if (int(row[7]) != 0) and (int(row[8]) != 0):
-                print (printstr,file=outfile)
+                printstr = ',__export__.account_payment_term_10,__export__.account_account_7,'+sid +','+salesperson+','+cid+','+custname+','+DATEINVOICE +','+prdid+','+prodtyp+','+acctid+','+row[5]+','+row[6]
+            if (row[5]) and (row[6]):
+                
+                if (int(row[5]) != 0)  and (int(row[6]) != 0):
+                    print (printstr,file=outfile)
         except KeyError as e:
             ercount = ercount + 1
-            print('Customer,',row[3],',Salesperson,',row[1],',',e.args[0],',**** ',file,file=errfile)
+            print('Customer,',row[1],',Salesperson,',row[0],',',e.args[0],',**** ',file,file=errfile)
             continue
     
     print ('PRODLOC,LINES,Errors,Errpct\n%s,%s,%s,%.2f%%\n' %(PRODLOC, rcount,ercount,((ercount-1)/(rcount-1))*100))
